@@ -1,0 +1,13 @@
+h1{
+  color: Blue;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 50px;
+}
+#About{
+  border: 5px dashed #0000FF;
+  border-radius: 10px;
+}
+#Interests{
+  border: 5px dashed #0000FF;
+  border-radius: 10px;
+}
